@@ -60,6 +60,10 @@ apt-get install -y ant default-jdk
 # Documentation and other:
 apt-get install -y doxygen unzip wget
 
+# Qt5 dependencies
+apt-get install qtbase5-dev
+apt-get install qtdeclarative5-dev
+
 
 # 3. INSTALL THE LIBRARY
 
